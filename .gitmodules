@@ -1,0 +1,3 @@
+[submodule "libs/sdk_alm"]
+	path = libs/sdk_alm
+	url = https://github.com/alkasm1/sdk_alm.git
