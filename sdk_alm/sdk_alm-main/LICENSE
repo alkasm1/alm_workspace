@@ -1,0 +1,61 @@
+ALM SDK – Proprietary License
+
+Copyright (c) 2026 Raaft omer.
+All Rights Reserved.
+
+This software, including its source code, architecture, protocols, documentation, and all related materials (collectively, the "SDK"), is proprietary and confidential.
+
+By accessing, installing, copying, using, or integrating this SDK, you agree to be bound by the terms of this License.
+
+1. Ownership
+
+The SDK and all associated intellectual property rights remain the exclusive property of Brhom.
+
+No ownership rights are granted or transferred under this License.
+
+2. License Grant
+
+Subject to compliance with this License, Brhom grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to use the SDK solely for internal development, evaluation, and integration purposes.
+
+3. Restrictions
+
+You may not:
+
+- Sell, resell, sublicense, rent, lease, distribute, publish, or commercially exploit the SDK.
+- Transfer the SDK or any rights granted under this License to any third party.
+- Reverse engineer, decompile, disassemble, or attempt to derive the source code, underlying protocols, or architecture.
+- Modify, adapt, translate, or create derivative works based on the SDK.
+- Use the SDK to develop competing products or services.
+- Remove, alter, or obscure any proprietary notices contained within the SDK.
+
+4. Confidentiality
+
+The SDK contains confidential and proprietary information.
+
+You agree to take reasonable measures to protect the SDK from unauthorized access, disclosure, copying, or use.
+
+5. No Warranty
+
+THE SDK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, BRHOM DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+6. Limitation of Liability
+
+IN NO EVENT SHALL BRHOM BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO THE USE OF THE SDK.
+
+7. Termination
+
+Any violation of this License immediately terminates all rights granted to you.
+
+Upon termination, you must cease all use of the SDK and permanently delete all copies in your possession or control.
+
+8. Governing Law
+
+This License shall be governed by and construed in accordance with the laws applicable in the Licensor's jurisdiction.
+
+9. Commercial Licensing
+
+Commercial licenses, custom integrations, and enterprise agreements may be available upon request.
+
+For licensing inquiries:

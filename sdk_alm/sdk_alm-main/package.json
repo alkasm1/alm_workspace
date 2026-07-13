@@ -1,0 +1,66 @@
+{
+  "name": "sdk_alm",
+  "version": "0.1.0",
+  "description": "ALM SDK - Real-time event-driven client for system, device, and task orchestration over WebSocket",
+
+  "type": "module",
+
+  "main": "./src/index.js",
+
+  "exports": {
+    ".": {
+      "import": "./src/index.js"
+    }
+  },
+
+  "files": [
+    "src/index.js",
+    "src/ALM.js",
+    "src/client",
+    "src/device",
+    "src/internal/errors",
+    "types"
+  ],
+
+  "keywords": [
+    "sdk",
+    "websocket",
+    "event-driven",
+    "alm",
+    "realtime",
+    "device",
+    "task",
+    "orchestration"
+  ],
+
+  "author": "Raaft omer",
+
+  "license": "UNLICENSED",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alkasm1/sdk_alm.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/alkasm1/sdk_alm/issues"
+  },
+
+  "homepage": "https://github.com/alkasm1/sdk_alm#readme",
+
+  "engines": {
+    "node": ">=18"
+  },
+
+  "scripts": {
+    "test": "node tests/basic.test.js",
+    "pack": "npm pack",
+    "prepublishOnly": "npm test"
+  },
+
+  "dependencies": {
+    "ws": "^8.21.0"
+  },
+
+  "sideEffects": false
+}
