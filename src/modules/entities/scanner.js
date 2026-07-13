@@ -1,14 +1,10 @@
-const { createRuntime } = require('../../core/runtime.js');
+const { Runtime } = require('../../../sdk_alm/src/runtime/Runtime.js');
 
 async function scanEntities() {
-    const alm = createRuntime();
+    const runtime = new Runtime();
+    await runtime.start();
 
-    if (!alm.registry) {
-        console.log("⚠️ Registry غير موجود داخل SDK.");
-        return;
-    }
-
-    const list = alm.registry.list();
+    const list = runtime.registry.list();
     console.log("Detected Entities:");
     console.log(list);
 }
